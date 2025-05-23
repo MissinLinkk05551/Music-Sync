@@ -146,11 +146,6 @@ python MusicSync2.py
 
 ---
 
-## 📷 Demo
-
-*(Insert a link to a YouTube short or GIF preview here)*
-
----
 
 ## 🧪 Tested On
 
